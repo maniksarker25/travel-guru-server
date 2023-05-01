@@ -1,0 +1,239 @@
+[
+       {
+          "name":"Bali, Indonesia",
+          "id":"101e",
+          "description":"Bali is known for its beautiful beaches, lush rice terraces, and ancient temples. It's a popular destination for yoga, surfing, and relaxation.",
+          "image_url":"https://png.pngtree.com/background/20230408/original/pngtree-ancient-temple-bali-indonesia-taman-photo-picture-image_2351963.jpg",
+          "price_per_night":80,
+          "average_rating":4.5,
+          "activities":[
+             "Visit Tanah Lot Temple",
+             "Surf at Kuta Beach",
+             "Take a yoga class in Ubud",
+             "Explore the Tegalalang Rice Terraces"
+          ],
+          "hotel":[
+            {
+                "name": "Four Seasons Resort Bali at Jimbaran Bay",
+                "location": "Jimbaran Bay, Bali, Indonesia",
+                "price_range": "$$$$$",
+                "rating": 4.9,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "pool"]
+              },
+              {
+                "name": "St. Regis Bali Resort",
+                "location": "Nusa Dua, Bali, Indonesia",
+                "price_range": "$$$$$",
+                "rating": 4.8,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "pool"]
+              },
+              {
+                "name": "Bulgari Resort Bali",
+                "location": "Uluwatu, Bali, Indonesia",
+                "price_range": "$$$$$",
+                "rating": 4.7,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "pool"]
+              }
+          ]
+       },
+       {
+          "name":"Paris, France",
+          "id":"102e",
+          "description":"Paris is the city of love and lights. It's known for its museums, iconic landmarks, and delicious cuisine.",
+          "image_url":"https://w7.pngwing.com/pngs/307/274/png-transparent-eiffel-tower-paris-eiffel-tower-arc-de-triomphe-notre-dame-de-paris-seine-eiffel-tower-photography-landscape-natural-thumbnail.png",
+          "price_per_night":120,
+          "average_rating":4.8,
+          "activities":[
+             "Visit the Eiffel Tower",
+             "Explore the Louvre Museum",
+             "Cruise down the Seine River",
+             "Indulge in French cuisine at a brasserie"
+          ],
+          "hotel":[
+            {
+                "name": "Four Seasons Hotel George V Paris",
+                "location": "31 Avenue George V, Paris, France",
+                "price_range": "$$$$$",
+                "rating": 4.9,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "pool"]
+              },
+              {
+                "name": "The Ritz Paris",
+                "location": "15 Place Vendôme, Paris, France",
+                "price_range": "$$$$$",
+                "rating": 4.8,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              },
+              {
+                "name": "Hôtel Plaza Athénée",
+                "location": "25 Avenue Montaigne, Paris, France",
+                "price_range": "$$$$$",
+                "rating": 4.7,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              }
+          ]
+       },
+       {
+          "name":"Cusco, Peru",
+          "id":"103e",
+          "description":"Cusco is the gateway to Machu Picchu, one of the world's most famous ancient ruins. It's a city steeped in history and culture, with beautiful colonial architecture and stunning mountain landscapes.",
+          "image_url":"https://images.squarespace-cdn.com/content/v1/5d4e9a8c90c9470001d038d7/13276f4e-9d7d-48e7-bd5b-3a4fe8b2c078/madalenatravels.com+-+2022-03-22T160258.326.png",
+          "price_per_night":70,
+          "average_rating":4.6,
+          "activities":[
+             "Explore the ruins of Machu Picchu",
+             "Visit the Sacsayhuaman fortress",
+             "Shop at the San Pedro Market",
+             "Take a cooking class and learn to make ceviche"
+          ],
+          "hotel":[
+            {
+                "name": "Belmond Hotel Monasterio",
+                "location": "Plazoleta Nazarenas, Cusco, Peru",
+                "price_range": "$$$$",
+                "rating": 4.9,
+                "amenities": ["spa", "restaurant", "bar", "fitness center"]
+              },
+              {
+                "name": "Palacio del Inka, a Luxury Collection Hotel",
+                "location": "Plazoleta Santo Domingo, Cusco, Peru",
+                "price_range": "$$$$",
+                "rating": 4.8,
+                "amenities": ["spa", "restaurant", "bar", "fitness center"]
+              },
+              {
+                "name": "JW Marriott El Convento Cusco",
+                "location": "Esquina De La Calle Ruinas 432 Y San Agustin, Cusco, Peru",
+                "price_range": "$$$$",
+                "rating": 4.7,
+                "amenities": ["spa", "restaurant", "bar", "fitness center"]
+              }
+          ]
+       },
+       {
+          "name":"New York City",
+          "id":"104e",
+          "description":"New York City is a vibrant and diverse city known for its iconic landmarks, world-class museums, and delicious food. It's a city that never sleeps and is full of energy.",
+          "image_url":"https://marvel-b1-cdn.bc0a.com/f00000000254107/cdn.tfc.com/marketing/files/commercial/CHT-building_2.png",
+          "price_per_night":200,
+          "average_rating":4.7,
+          "activities":[
+             "Visit the Statue of Liberty",
+             "Explore Central Park",
+             "See a Broadway show",
+             "Indulge in pizza at a local pizzeria"
+          ],
+          "hotel":[
+            {
+                "name": "The Plaza Hotel",
+                "location": "Fifth Avenue, New York City",
+                "price_range": "$$$$$",
+                "rating": 4.8,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              },
+              {
+                "name": "The St. Regis New York",
+                "location": "Fifth Avenue, New York City",
+                "price_range": "$$$$$",
+                "rating": 4.7,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              },
+              {
+                "name": "The Waldorf Astoria",
+                "location": "Park Avenue, New York City",
+                "price_range": "$$$$",
+                "rating": 4.6,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              }
+          ]
+       },
+       {
+          "name":"Cape Town",
+          "id":"105e",
+          "description":"Cape Town is a city of stunning natural beauty, with towering mountains, beautiful beaches, and abundant wildlife. It's also known for its rich history and cultural heritage.",
+          "image_url":"https://png.pngtree.com/background/20220721/original/pngtree-coastal-scenery-of-twelve-apostles-peak-in-cape-town-south-africa-picture-image_1700147.jpg",
+          "price_per_night":90,
+          "average_rating":4.4,
+          "activities":[
+             "Visit Table Mountain",
+             "Take a tour of Robben Island",
+             "Go shark cage diving",
+             "Visit the Kirstenbosch Botanical Gardens"
+          ],
+          "hotel":[
+            {
+                "name": "The One&Only Cape Town",
+                "location": "V&A Waterfront, Cape Town",
+                "price_range": "$$$$$",
+                "rating": 4.9,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "infinity pool"]
+              },
+              {
+                "name": "The Belmond Mount Nelson Hotel",
+                "location": "Gardens, Cape Town",
+                "price_range": "$$$$",
+                "rating": 4.7,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "pool"]
+              },
+              {
+                "name": "The Twelve Apostles Hotel and Spa",
+                "location": "Victoria Road, Cape Town",
+                "price_range": "$$$$",
+                "rating": 4.8,
+                "amenities": ["spa", "fitness center", "restaurant", "bar", "infinity pool"]
+              }
+          ]
+       },
+       {
+        "name":"Kasmir, India",
+        "id":"106e",
+        "description":"Kashmir is a breathtakingly beautiful region located in the northernmost part of the Indian subcontinent. It is nestled in the Himalayan mountains and boasts stunning natural beauty, including snow-capped peaks, pristine lakes, and lush green forests.",
+        "image_url":"https://miro.medium.com/v2/resize:fit:604/1*oc4Nchh25V5hu7GxjmUPNA.png",
+        "price_per_night":200,
+        "average_rating":4.7,
+        "activities":[
+           "Visit the Statue of Liberty",
+           "Explore Central Park",
+           "See a Broadway show",
+           "Indulge in pizza at a local pizzeria"
+        ]
+     },
+     {
+        "name":"London",
+        "id":"107e",
+        "description":"London is a bustling and vibrant city that is known for its rich history, diverse culture, and iconic landmarks. Located in the southeast of England, London is the largest city in the United Kingdom and a hub of art, fashion, and business..",
+        "image_url":"https://images.squarespace-cdn.com/content/v1/57fe5123be659427ddced749/1503272837186-S2RUZJOKKKJ0JN4B23JF/503564476.png",
+        "price_per_night":200,
+        "average_rating":4.7,
+        "activities":[
+           "Visit the Statue of Liberty",
+           "Explore Central Park",
+           "See a Broadway show",
+           "Indulge in pizza at a local pizzeria"
+        ],
+        "hotel":[
+            {
+                "name": "The Savoy",
+                "location": "Strand, London",
+                "price_range": "$$$$",
+                "rating": 4.7,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              },
+              {
+                "name": "The Ritz London",
+                "location": "Piccadilly, London",
+                "price_range": "$$$$$",
+                "rating": 4.8,
+                "amenities": ["spa", "restaurant", "bar", "afternoon tea"]
+              },
+              {
+                "name": "The Langham",
+                "location": "Portland Place, London",
+                "price_range": "$$$$",
+                "rating": 4.6,
+                "amenities": ["spa", "fitness center", "restaurant", "bar"]
+              }
+        ]
+     }
+    ]
+ 
