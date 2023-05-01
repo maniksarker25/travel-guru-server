@@ -1,0 +1,44 @@
+{
+    "destinations":[
+       {
+          "name":"Bali, Indonesia",
+          "description":"Bali is known for its beautiful beaches, lush rice terraces, and ancient temples. It's a popular destination for yoga, surfing, and relaxation.",
+          "image_url":"https://example.com/images/bali.jpg",
+          "price_per_night":80,
+          "average_rating":4.5,
+          "activities":[
+             "Visit Tanah Lot Temple",
+             "Surf at Kuta Beach",
+             "Take a yoga class in Ubud",
+             "Explore the Tegalalang Rice Terraces"
+          ]
+       },
+       {
+          "name":"Paris, France",
+          "description":"Paris is the city of love and lights. It's known for its museums, iconic landmarks, and delicious cuisine.",
+          "image_url":"https://example.com/images/paris.jpg",
+          "price_per_night":120,
+          "average_rating":4.8,
+          "activities":[
+             "Visit the Eiffel Tower",
+             "Explore the Louvre Museum",
+             "Cruise down the Seine River",
+             "Indulge in French cuisine at a brasserie"
+          ]
+       },
+       {
+          "name":"Cusco, Peru",
+          "description":"Cusco is the gateway to Machu Picchu, one of the world's most famous ancient ruins. It's a city steeped in history and culture, with beautiful colonial architecture and stunning mountain landscapes.",
+          "image_url":"https://example.com/images/cusco.jpg",
+          "price_per_night":70,
+          "average_rating":4.6,
+          "activities":[
+             "Explore the ruins of Machu Picchu",
+             "Visit the Sacsayhuaman fortress",
+             "Shop at the San Pedro Market",
+             "Take a cooking class and learn to make ceviche"
+          ]
+       }
+    ]
+ }
+ 
